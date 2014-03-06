@@ -1,0 +1,183 @@
+/*
+Theme Name: icVex Main 2014
+Description: Super Minimal Starter theme
+Copyright: 2014
+Version: 0.5.1
+Author: eX Happio Co., td.
+Author URI: http://icvex.com
+*/
+
+html {
+	
+}
+body {
+	background: #42413f;
+	color: #222;
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1;
+	position: relative;
+	cursor: default;
+}
+a {
+	
+}
+a:hover {
+	
+}
+a:active {
+	
+}
+#page {
+	
+}
+.container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	max-width: 58.125rem;
+}
+#head {
+	background-color: #363435;
+}
+	#brand {
+
+	}
+	#brand a {
+		display: block;
+
+		background: url('img/logo_color.png') no-repeat;
+
+		margin-top: 10px;
+		margin-left: 80px; 
+
+		text-indent:200%;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+		#brand-title {
+			
+		}
+		#brand-desc {
+			margin: 0;
+		}
+	#navgroup {
+		display: inline;
+		float: right;
+	}
+		#nav {
+			margin-bottom: 12px;
+		}
+		
+		#nav .mainnav > li{
+			display: inline;
+			list-style: none;
+
+			font-size: 1.25rem;
+			font-weight: 300;
+		
+		}
+
+		#nav .mainnav > li a {
+			color: #686666;
+			padding: 4px 10px 6px;
+
+		}
+		#nav .mainnav > li a:hover {
+			background: #232323;
+			color: red;
+
+			text-decoration: underline;
+
+		}
+
+		#nav .mainnav > li.current-menu-item,
+		#nav .mainnav > li.current-menu-ancestor {
+			
+		}
+		
+#main {
+	
+}
+	#main .container {
+		background-color:  #2D2B2C;
+	}
+
+	h1.title a {
+		
+	}
+	h1.title a:hover {
+		
+	}
+	h1.title a:active{
+		
+	}
+	.item {
+		
+	}
+		.item .pic {
+			
+		}
+		.item .info {
+			
+		}
+		.item h3 {
+			
+		}
+		.item .info p {
+			
+		}
+	
+	.meta {
+		
+	}
+	.entry {
+		width: 83.33333%;
+		margin: 0 auto;
+	}
+
+	.row {
+		
+	}
+	#content {
+		color: #8e8a87;
+	}
+
+	#content .fb-comments{
+		clear: both;
+		display: block;
+	}
+	
+	#content .fb-comments span,
+	#content .fb-comments iframe{
+		width: 100% !important;
+	}
+	
+	#about-image {
+		text-align: center;
+		margin: 90px 0;
+	}
+	
+	#about-detail {
+		color: #8e8a87;
+		font-size: 1.25rem;
+		text-align: justify;
+		line-height: 30px;
+		margin-bottom: 90px;
+
+	}
+
+	footer {
+		background-color: #ed1b24;
+		padding: 36px 0;
+	}
+
+	footer small {
+		color: #272727;
+		font-size: 1.25rem;
+	}
