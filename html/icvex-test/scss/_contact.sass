@@ -1,0 +1,84 @@
+$bcg-icvex: #2D2B2C
+$bcg-index: #353334
+$bcg-myanmar: #3B393A
+$bcg-map: #FFFFFF
+
+@media #{$small-up}
+  .contact-block
+    padding: 60px 0px
+  .contact-logo,
+  .contact-place
+    @include grid-column(12)
+  .contact-logo
+    img
+      margin: 0 auto
+  .contact-place
+    h2
+      font-size: emCalc(20)
+      font-weight: normal
+      line-height: 100%
+      color: #ED1B24
+    address
+      font-size: emCalc(20)
+      font-style: normal
+      font-weight: 100
+      line-height: 120%
+      color: white
+      a
+        color: inherit
+
+  .contact-map
+    @include grid-column($columns:12, $center:true)
+    .map-image
+      margin-bottom: 20px
+      img
+        margin: 0 auto
+    h2
+      font-size: emCalc(20)
+      font-weight: normal
+      line-height: 100%
+      color: #ED1B24
+      text-align: center
+    address
+      font-size: emCalc(18)
+      font-style: normal
+      font-weight: 200
+      line-height: 120%
+      color: #A7A8AC
+      text-align: center
+      p
+        margin-top: 6px
+      .tel,
+      .email
+        display: inline-block
+        font-size: emCalc(18)
+        color: black
+      .email
+        margin-left: 20px  
+        a
+          color: inherit
+
+      
+
+  .company-icvex
+    background-color: $bcg-icvex
+  .company-index
+    background-color: $bcg-index
+  .company-myanmar
+    background-color: $bcg-myanmar
+  .company-map
+    background-color: $bcg-map
+
+@media #{$medium-up}
+  .contact-logo
+    @include grid-column(5)
+  .contact-place
+    @include grid-column(7)
+  .contact-map
+    @include grid-column($columns:12, $center:true)
+    address
+      .tel,
+      .email
+        display: inline
+
+@media #{$large-up}

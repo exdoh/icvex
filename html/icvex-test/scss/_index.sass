@@ -1,0 +1,146 @@
+// ellipsis
+$use-mozilla-ellipsis-binding: true
+@import "compass/typography/text/ellipsis"
+@import "compass/layout/sticky-footer"
+
+@media #{$small-up}
+  /* header */
+  #main-nav
+    background-color: #363435
+  /* content */
+  $content-color: #9F9D9E
+  .content-text
+    background-color: #353336
+    padding-left: 34px
+    padding-right: 34px
+  .content-slide,
+  .content-vdo,
+  .content-poster,
+  .content-sponser,
+  .content-image
+    padding: 0px
+    float: left !important
+  .content-vdo
+    .flex-video
+      margin-bottom: 0px
+  .content-image
+    background: #3e3e3e
+    img
+      margin: auto
+  .bxslider
+    margin: 0px
+  .main-title
+    text-transform: uppercase
+    font-size: emCalc(16)
+    font-weight: bold
+    color: $content-color
+    margin-bottom: emCalc(4)
+    margin-top: emCalc(30)
+  .link-more
+    margin-bottom: emCalc(10)
+    ul
+      margin-bottom: 0px
+      a
+        font-size: emCalc(18)
+        font-weight: lighter
+        color: #ED1B24
+  #news-feed,
+  #news-event
+    padding-right: 6px
+    overflow: overlay
+    color: $content-color
+    &::-webkit-scrollbar
+      background-color: #363435
+      width: 6px
+      border-right: none
+    &::-webkit-scrollbar-track
+      background-color: #363435
+      border-right: none
+    &::-webkit-scrollbar-thumb
+      background-color: #363435
+      border-right: none
+    &::-webkit-scrollbar-thumb:hover
+      background-color: #363435
+      border-right: none
+    li
+      font-size: emCalc(16)
+      font-weight: lighter
+  #news-feed
+    li
+      font-size: emCalc(14)
+      border-bottom: 2px #c3c3c3 solid
+      padding-bottom: 16px
+      // @include ellipsis
+      // white-space: normal
+      &:first-of-type
+        padding-top: 0px
+      &:last-of-type
+        padding-bottom: 0px
+        padding-top: 10px
+        border: none
+  #news-event
+    li
+      h4
+        font-size: emCalc(14)
+        line-height: 120%
+        font-weight: bold
+        color: $content-color
+        margin-bottom: 0px
+        @include ellipsis
+      p
+        font-size: emCalc(14)
+        line-height: 130%
+        color: #8E8A87
+        font-weight: 200
+        margin-bottom: 6px
+        @include ellipsis
+  /* footer */
+  #main-footer
+    height: 100px
+    background-color: #ED1B24
+    footer
+      padding-top: emCalc(20)
+      text-align: left
+      p
+        color: #272727
+        font-size: emCalc(20)
+        font-weight: 200
+        padding-left: emCalc(20)
+
+  @include sticky-footer(72px, "#wrap", "#push-footer", "#main-footer")
+  #wrap
+    @include grid-row()
+    background: #2D2B2C
+
+
+
+@media #{$medium-up}
+  /* content */
+  .content-text
+    height: 280px
+  
+
+
+  .link-more
+    position: absolute
+    bottom: 0
+    right: 0
+    padding-right: 15px
+
+@media #{$large-up}
+  /* content */
+  #news-feed
+    height: 162px
+  #news-event
+    height: 180px
+  .content-vdo,
+  .content-text,
+  .content-image
+    height: 280px
+  .content-image
+    padding-top: 60px
+  .flex-video
+    height: 100%
+  
+
+  
