@@ -51,7 +51,7 @@ a:active {
 	#brand a {
 		display: block;
 
-		background: url('img/logo_color.png') no-repeat;
+		background: url('../img/logo_color.png') no-repeat;
 
 		margin-top: 10px;
 		margin-left: 80px; 

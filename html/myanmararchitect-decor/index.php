@@ -9,10 +9,8 @@
       <ul>
         <li>Resulting from economic reform, the market for infrastructure and construction in Myanmar has been boosted actively by foreign investors particularly those from Thailand, China, South Korea and Hong Kong.</li>
         <li>Foreign investment in construction and infrastructure resulted to fast development of new hotels, residential, commercial and institutional buildings.</li>
-        <li>The growth of construction industry by 25.4% has driven to huge demand of construction materials, interior related, décor, furniture, and accessories.
-             <br><br>
-             Business opportunities for import of construction materials and interior related product owing to the limited supply at the stage.
-        </li>
+        <li>The growth of construction industry by 25.4% has driven to huge demand of construction materials, interior related, décor, furniture, and accessories.</li>  
+        <li>Business opportunities for import of construction materials and interior related product owing to the limited supply at the stage.</li>
         
       </ul>
     </div>

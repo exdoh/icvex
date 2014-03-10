@@ -9,8 +9,8 @@
       <h1>Myanmar International <br>Architect & Décor 2014</h1>
 
       <h3>24-26 September, 2014</h3>
-      <h4>09.00-17.00 hrs. (Wed.24 – Thu25 December, 2014)</h4>
-      <h4>09.00-16.00 hrs. (Fri 26 December, 2014)</h4>
+      <h4>09.00-17.00 hrs. (Wed.24 – Thu25 September, 2014)</h4>
+      <h4>09.00-16.00 hrs. (Fri 26 September, 2014)</h4>
       <p>
         Myanmar Event Park (MEP), Yangon<br>
         Myanmar
@@ -21,15 +21,15 @@
 
   <!-- Second Row -->
   <div id="about_why-autoplus" class="row">
-    <h1>Why Myanmar Architec & Decor?</h1>
+    <h1>Why Myanmar Architect & Decor?</h1>
     <div class="col-xs-4">
       <ul>
-        <li><h3>The first international event timely held in the growing development of hotels, restaurants, shopping complex, commercial and residential building as well as industrial./h3></li>
+        <li><h3>The first international event timely held in the growing development of hotels, restaurants, shopping complex, commercial and residential building as well as industrial.</h3></li>
       </ul>
     </div>
     <div class="col-xs-4">
       <ul>
-        <li><h3>Meet with trade professionals from real estate development, construction companies, constructors, architecture, interior design as well as furniture</h3></li>
+        <li><h3>Meet with trade professionals from real estate development, construction companies, Contractors, architecture, interior design as well as furniture</h3></li>
       </ul>
     </div>
     <div class="col-xs-4">
@@ -55,7 +55,7 @@
     <div class="col-xs-6 img"></div>
     <div class="col-xs-6">
       <h3>ICVeX</h3>
-      <p>Myanmar Architec & Decor is organized by ICVeX, the subsidiary company of Index Creative Village which is well known as world’s 7th ranking event company. With highly experienced management team and extensive business network in Myanmar including local office in Yangon, we are confident in delivering high quality exhibition with great return on investment for all exhibiting companies</p>
+      <p>Myanmar Architect & Decor is organized by ICVeX, the subsidiary company of Index Creative Village which is well known as world’s 7th ranking event company. With highly experienced management team and extensive business network in Myanmar including local office in Yangon, we are confident in delivering high quality exhibition with great return on investment for all exhibiting companies</p>
     </div>
   </div>
   <!-- Fourth Row -->

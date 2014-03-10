@@ -48,7 +48,7 @@
     <div class="col-xs-10 col-xs-offset-1">
       <h1>Myanmar Auto Plus 2014</h1>
       <h3>Download Auto Plus brochure 2014</h3>
-      <a href="download/brochure_auto_plus.zip" class="download-button">Download</a>
+      <a href="download/Autoplus3.pdf" class="download-button">Download</a>
     </div>
   </div>
   <hr>
