@@ -81,7 +81,7 @@
     </div>
     <div id="home_supported-by" class="col-xs-3">
       <p>Official Publication</p>
-        <a href="http://www.apfoodonline.com/" target="_black"><img src="images/food_industry.png"></a>
+        <a href="http://www.apfoodonline.com/" target="_black"><img src="images/food_industry.png" width="170px"></a>
     </div>
     <div id="home_organized-by" class="col-xs-2">
       <p>Co-located with</p>

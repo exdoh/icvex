@@ -9,11 +9,10 @@
       <h1>Myanmar International <br>Architect & Décor 2014</h1>
 
       <h3>24-26 September, 2014</h3>
-      <h4>09.00-17.00 hrs. (Wed.24 – Thu25 December, 2014)</h4>
-      <h4>09.00-16.00 hrs. (Fri 26 December, 2014)</h4>
+      <h4>09.00-17.00 hrs. (Wed.24 – Thu25 September, 2014)</h4>
+      <h4>09.00-16.00 hrs. (Fri 26 September, 2014)</h4>
       <p>
-        Myanmar Event Park (MEP), Yangon<br>
-        Myanmar
+        Myanmar Event Park (MEP), Yangon Myanmar
       </p>
     </div>
   </div>
@@ -21,20 +20,28 @@
 
   <!-- Second Row -->
   <div id="about_why-autoplus" class="row">
-    <h1>Why Myanmar Architec & Decor?</h1>
+    <h1>Why Myanmar Architect & Decor?</h1>
     <div class="col-xs-4">
       <ul>
-        <li><h3>The first international event timely held in the growing development of hotels, restaurants, shopping complex, commercial and residential building as well as industrial./h3></li>
+        <li><h3>The first international event timely held in the growing development of hotels, restaurants, shopping complex, commercial and residential building as well as industrial.</h3></li>
       </ul>
     </div>
     <div class="col-xs-4">
       <ul>
-        <li><h3>Meet with trade professionals from real estate development, construction companies, constructors, architecture, interior design as well as furniture</h3></li>
+        <li><h3>Meet with trade professionals from real estate development, construction companies, Contractors, architecture, interior design as well as furniture</h3></li>
       </ul>
     </div>
     <div class="col-xs-4">
       <ul>
         <li><h3>Business matching service enabling you to find the right partners in Myanmar.</h3></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="about_why-autoplus" class="row">
+    <div class="col-xs-4">
+      <ul>
+        <li><h3>The venue is located at the center of Yangon with international standard exhibition facilities.</h3></li>
       </ul>
     </div>
   </div>
@@ -45,7 +52,7 @@
     <div class="col-xs-6 img"></div>
     <div class="col-xs-6 bg-light">
       <h3>Myanmar Event Park (MEP)</h3>
-      <p>Myanmar Event Park (MEP) is Located in the heart of Yangon surrounded by many important spots namely Shwe Dagon, DITP(Thailand’s Department of International Trade Promotion), International airport and Parliament with superb facilities such as big parking space (more than 500 cars), international standard restaurant, modern supermarket and bus station to facilitate all exhibitors and  visitors</p>
+      <p>Myanmar Event Park (MEP) is located in the heart of Yangon surrounded by many important spots namely Shwe Dagon, DITP(Thailand’s Department of International Trade Promotion), International airport and Parliament with superb facilities such as big parking space (more than 500 cars), international standard restaurant, modern supermarket and bus station to facilitate all exhibitors and  visitors</p>
     </div>
   </div>
   <!-- Third Row -->

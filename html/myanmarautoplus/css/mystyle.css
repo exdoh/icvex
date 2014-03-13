@@ -154,7 +154,7 @@ ul.navbar-right {
 }
 #about_banner-info {
 	height: 318px;
-	text-align: center;
+	/*text-align: center;*/
 	color: #D9D9D9;
 }
 #about_banner-info h1 {

@@ -48,7 +48,7 @@
     <div class="col-xs-10 col-xs-offset-1">
       <h1>Myanmar HoReCa 2014</h1>
       <h3>Download Myanmar HoReCa 2014 brochure 2014</h3>
-      <a href="download/brochure_horeca.zip" class="download-button">Download</a>
+      <a href="download/brochure_horeca.pdf" class="download-button">Download</a>
     </div>
   </div>
 </div>

@@ -17,6 +17,7 @@
         <li>Sanitary ware, Kitchen,</li>
         <li>Lighting, Computer, Software, CCTV, Home Theatre, Sound Equipment</li>
         <li>Decorative Materials, Outdoor Furniture & Decoration, Landscaping</li>
+        <li>Swimming Pool, Sauna & Spa</li>
       </ul>
     </div>
     <!--<div class="col-xs-4">

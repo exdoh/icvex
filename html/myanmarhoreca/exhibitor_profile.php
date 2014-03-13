@@ -4,7 +4,7 @@
 <div id="exhibitor_profile" class="container">
   <div class="row bg-light">  
     <h3>Exhibitor Profile</h3>
-    <h4>Euipment & Supplies</h4>
+    <h4>Equipment & Supplies</h4>
     <div class="col-xs-4">
       <h4>Bakery & Ice Cream</h4>
       <ul>

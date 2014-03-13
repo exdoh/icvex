@@ -44,7 +44,7 @@
     <div class="col-xs-6 img"></div>
     <div class="col-xs-6 bg-light">
       <h3>Myanmar Event Park (MEP)</h3>
-      <p>Myanmar Event Park (MEP) is Located in the heart of Yangon surrounded by many important spots namely Shwe Dagon, DITP(Thailand’s Department of International Trade Promotion), International airport and Parliament with superb facilities such as big parking space (more than 500 cars), international standard restaurant, modern supermarket and bus station to facilitate all exhibitors and  visitors</p>
+      <p>Myanmar Event Park (MEP) is located in the heart of Yangon surrounded by many important spots namely Shwe Dagon, DITP(Thailand’s Department of International Trade Promotion), International airport and Parliament with superb facilities such as big parking space (more than 500 cars), international standard restaurant, modern supermarket and bus station to facilitate all exhibitors and  visitors</p>
     </div>
   </div>
   <!-- Third Row -->

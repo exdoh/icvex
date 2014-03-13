@@ -10,9 +10,9 @@
         545 Pridi Bhanomyong42<br>
         Sukhumvit 71.,North Prakanong<br>
         Wattana, Bangkok 10110, Thailand<br>
-        Tel. 089-999-9999<br>
-        Fax. 02-222448<br>
-        Email: info@icvex.com, sujit@icvex.com<br>
+        Tel. +662-713-3303<br>
+        Fax. +662-713-3304<br>
+        Email: info@icvex.com<br>
         www.icvex.com
       </h3>
     </div>

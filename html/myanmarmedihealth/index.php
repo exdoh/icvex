@@ -82,16 +82,19 @@
       <img src="images/logo_index.png">
       <img src="images/logo_index-myanmar.png">
     </div>
+
+    <div class="col-xs-2"></div>
+    
     <div id="home_supported-by" class="col-xs-3">
-      <p>Supported by: Singapore Industrial Automation Association</p>
+      <p><span style="font-size:12px;">Supported by:</span> Singapore Industrial Automation Association</p>
       <img src="images/logo_siaa.png">
     </div>
-    <div id="home_colocated-by" class="col-xs-2">
+    <!--<div id="home_colocated-by" class="col-xs-2">
       <p>Co-located with</p>
       <a href="http://www.myanmaredufair.com" target="_blank" title="myanmarinternationaleducation">
         <img src="images/logo_mie.png">
       </a>
-    </div>
+    </div>-->
   </div>
   <!-- Third Row -->
 </div> <!-- /container -->

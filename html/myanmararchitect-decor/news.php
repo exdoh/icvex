@@ -46,9 +46,9 @@
 	<a name="brochure"></a>
   <div class="row">
     <div class="col-xs-10 col-xs-offset-1">
-      <h1>Myanmar Architec & Decor 2014</h1>
-      <h3>Download Architec & Decor brochure 2014</h3>
-      <a href="download/architectdecorfinal.pdf" class="download-button">Download</a>
+      <h1>Myanmar Architect & Decor 2014</h1>
+      <h3>Download Architect & Decor brochure 2014</h3>
+      <a href="download/architectdecor_final.pdf" class="download-button">Download</a>
     </div>
   </div>
   <hr>

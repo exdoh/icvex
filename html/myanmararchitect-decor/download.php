@@ -3,8 +3,8 @@
 <!-- DOWNLOAD -->
 <div id="download" class="container">
   <div class="row">
-    <h3>Download Architec & Decor brochure 2014</h3>
-    <a href="download/architectdecorfinal.pdf" class="download-button">Download</a>
+    <h3>Download Architect & Decor brochure 2014</h3>
+    <a href="download/architectdecor_final.pdf" class="download-button">Download</a>
   </div>
 </div>
 <!-- DOWNLOAD -->

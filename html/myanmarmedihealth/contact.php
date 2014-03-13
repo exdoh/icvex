@@ -12,7 +12,7 @@
         Wattana, Bangkok 10110, Thailand<br>
         Tel. +662-713-3033<br>
         Fax. +662-713-3034<br>
-        Email: info@icvex.com, sujit@icvex.com<br>
+        Email: info@icvex.com<br>
         www.icvex.com
       </h3>
     </div>
